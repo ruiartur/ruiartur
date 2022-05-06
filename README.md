@@ -7,7 +7,7 @@
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
-<a href="https://linkedin.com/in/ruiartur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruiartur" height="30" width="40" /></a>  [Rui Artur](https://www.linkedin.com/in/ruiartur/)
+<a href="https://linkedin.com/in/ruiartur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruiartur" height="30" width="40" /></a>  <a href="https://linkedin.com/in/ruiartur" target="blank"> Rui Artur </a>
 
 <a href="https://medium.com/@rui.artur10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rui.artur10" height="30" width="40" /></a>  
 </p>  
@@ -17,6 +17,8 @@
 
 <a href="https://github.com/ruiartur?tab=repositories&q=&type=source">
   <img align="top" alt="Rui's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruiartur&layout=compact" />
+  
+  <p></p>
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruiartur&show_icons=true&locale=en" alt="ruiartur" /></p>
 
