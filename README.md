@@ -19,7 +19,7 @@
   
  <br>
  <p>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruiartur&show_icons=true&locale=en" alt="ruiartur" /> <a href="https://github.com/ruiartur?tab=repositories&q=&type=source"> &nbsp; <img align="top" alt="Rui's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruiartur&layout=compact" /> </p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruiartur&show_icons=true&theme=tokyonight" alt="ruiartur" /> <a href="https://github.com/ruiartur?tab=repositories&q=&type=source"> &nbsp; <img align="top" alt="Rui's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruiartur&layout=compact&theme=tokyonight" /> </p>
 
 <!--
 **ruiartur/ruiartur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
